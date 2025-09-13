@@ -1,0 +1,11 @@
+{
+  "name": "poster_maker_pro_templates",
+  "version": "1.0.0",
+  "description": "here all the poster maker pro template data will going to be dumped",
+  "main": "index.js",
+  "scripts": {
+    "test": "node generateTemplates.js"
+  },
+  "author": "Poster Maker Pro",
+  "license": "ISC"
+}
